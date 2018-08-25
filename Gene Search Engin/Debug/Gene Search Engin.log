@@ -1,0 +1,13 @@
+﻿Build started 8/25/2018 11:15:08 AM.
+     1>Project "F:\Projects\Researches\Bio\Bio\Gene Search Engin\Gene Search Engin.vcxproj" on node 2 (Clean target(s)).
+     1>CudaClean:
+         cmd.exe /C "C:\Users\Shehab\AppData\Local\Temp\tmp1ac16646070d48de85b82f96255feada.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_UNICODE -DUNICODE -Xcompiler "/EHsc /W3 /nologo /Od /Zi  /MDd " -o Debug\GPUCode.cu.obj "F:\Projects\Researches\Bio\Bio\Gene Search Engin\GPUCode.cu" -clean
+         
+         F:\Projects\Researches\Bio\Bio\Gene Search Engin>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_UNICODE -DUNICODE -Xcompiler "/EHsc /W3 /nologo /Od /Zi  /MDd " -o Debug\GPUCode.cu.obj "F:\Projects\Researches\Bio\Bio\Gene Search Engin\GPUCode.cu" -clean 
+         GPUCode.cu
+     1>Done Building Project "F:\Projects\Researches\Bio\Bio\Gene Search Engin\Gene Search Engin.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89
